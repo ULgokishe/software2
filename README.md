@@ -6,5 +6,5 @@ Configurado para se utilizado en integración continua con Codeship.
 
 Solo para fines academicos.
 
-Hernan Quintana
+Hernan Quintana XD
 hquintan@ulima.edu.pe
